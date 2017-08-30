@@ -3,7 +3,7 @@
 
 
 ### Purpose of the project:
-     For this project we were required to design a path planner which is able to create smooth, safe paths for a car to follow along a 3 lane highway with traffic.
+ For this project we were required to design a path planner which is able to create smooth, safe paths for a car to follow along a 3 lane highway with traffic.
      
 ### Success Conditions
 1. Keep inside its lane.
