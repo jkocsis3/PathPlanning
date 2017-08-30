@@ -21,6 +21,8 @@
 <BR CLEAR="left"/>
 <img src="./ReadMeImages/Image 001.png" height="200" width="400"  align="Left"/>
 <BR CLEAR="left"/>
+
+
 2. The car drives according to the speedlimit.
     * This was accomplished by added a max speed to the code (see #3).
 3. Max Acceleration and jerk are not exceeded.
